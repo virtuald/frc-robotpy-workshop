@@ -1,11 +1,16 @@
 RobotPy Workshop
 ================
 
+Requirements (all platforms)
+----------------------------
+
+Go to python.org, download and install Python 3. Will require admin access on
+your machine.
+
+https://www.python.org/downloads/
+
 Requirements (Windows)
 ----------------------
-
-From windows explorer, double click python-3.5.1.msi to install it, requires
-admin access.
 
 Next, install pyfrc via pip (requires internet). Open up the command prompt:
 
@@ -13,8 +18,6 @@ Next, install pyfrc via pip (requires internet). Open up the command prompt:
 
 Requirements (OSX)
 ------------------
-
-Install python-3.5.1-macosx10.6.pkg, requires admin access.
 
 Next, install pyfrc via pip (requires internet).
 Open up a terminal and do one of the following:
@@ -66,8 +69,8 @@ More information
 
 RobotPy Documentation is available online at:
 
-    http://robotpy.readthedocs.org/
-    http://pyfrc.readthedocs.org/
+    http://robotpy.readthedocs.io/
+    http://pyfrc.readthedocs.io/
 
 There are more RobotPy samples online at 
 
